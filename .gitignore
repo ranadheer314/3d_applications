@@ -166,3 +166,6 @@ dist/*
 
 pyproject_dup.toml
 src/*
+
+3dapplications/images_uploaded/*
+3dapplications/test_data/*
